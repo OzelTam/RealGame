@@ -455,3 +455,7 @@ FodyWeavers.xsd
 /RealGame.STM32/.vscode/extensions.json
 /RealGame.STM32/.vscode/launch.json
 /RealGame.STM32/.vscode/settings.json
+/RealGame.ESP32/.vscode/c_cpp_properties.json
+/RealGame.ESP32/.vscode/extensions.json
+/RealGame.ESP32/.vscode/settings.json
+/RealGame.ESP32/.vscode/launch.json
